@@ -1,0 +1,9 @@
+.awesomepayments-net-payment-method-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.awesomepayments-net-payment-method-wrapper img {
+    display: flex;
+    width: 100%;
+}
